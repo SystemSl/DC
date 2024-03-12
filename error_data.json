@@ -1,0 +1,15 @@
+{
+    "flowers": [
+        {
+            "id": 1,
+            "name": "Роза",
+            "poisoned": false
+        },
+        {
+            "id": 2,
+            "name": "Ромашка",
+            "poisoned": false
+        },
+        {
+     
+}
